@@ -1,4 +1,4 @@
-module github.com/devhindo/latestPhones
+module github.com/devhindo/latestTech
 
 go 1.20
 
